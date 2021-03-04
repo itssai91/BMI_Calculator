@@ -41,4 +41,3 @@ function bmi() {
 }
 //Click Event on Calculate Button
 document.querySelector(".btn").addEventListener("click", bmi);
-2 Attachments
